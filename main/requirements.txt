@@ -1,0 +1,6 @@
+# Python 3.9 or higher
+
+numpy
+pandas
+scikit-learn
+matplotlib
