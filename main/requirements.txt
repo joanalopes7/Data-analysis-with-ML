@@ -3,4 +3,7 @@
 numpy
 pandas
 scikit-learn
+torch
 matplotlib
+PyTDC
+# PyTDC está a dar erros com algumas dependencias
