@@ -42,10 +42,12 @@ conda activate noteSI
 ```
 Note: The environment name is specified in the env.yml file. If you haven’t changed the file, the default name will be the one listed there.
 
-**5. Verify that the dependencies were installed correctly:** You can check if the environment was created successfully and if all dependencies were installed by running:
+**5. Verify that the dependencies & environment were installed correctly:**  
+You can check if the environment was created successfully and if all dependencies were installed by running:
 
 ```
 conda list
+conda env list
 ```
 
 **6. You're all set!**
