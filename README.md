@@ -6,6 +6,8 @@ This project was conceived in an academic context, in the curricular unit "Intel
 - [Diogo Esteves](https://github.com/dasesteves)
 - [Joana Lopes](https://github.com/joanalopes7)
 - [Tiago Miranda](https://github.com/tiagomiranda24)
+  
+<br>
 
 ## **Project Overview**
 
@@ -30,6 +32,7 @@ To enhance readability and ensure a smoother flow, the content to evaluation has
 **"Gene-Disease Association Prediction presentation":** This PDF file corresponds to our presentation for the intermediate evaluation that took place on January 13, 2025.<br>
 
 <br>
+<br>
 
 Additionally, the repository references several **CSV files** that are not included due to their large size and that can be requested from the project collaborators:
 
@@ -43,37 +46,42 @@ Additionally, the repository references several **CSV files** that are not inclu
 
 <br>
 
-To ensure that all the project's dependencies are installed correctly, we recommend using a Conda environment. You can easily create the environment with the project's dependencies from the env.yml file included in this repository.<br>
+## **Steps to set up the environment:**
 
-**Steps to set up the environment:**
+To ensure that all the project's dependencies are installed correctly, we recommend using a Conda environment. You can easily create the environment with the project's dependencies from the env.yml file included in this repository.<br>
 
 **1. Make sure you have Conda installed.**
 If you don't have Conda installed, download and install Miniconda or Anaconda.
 
-
 **2. Clone the repository to your local machine:**
 If you haven't cloned the repository yet, use the following command to clone it:
 
+```
 git clone https://github.com/joanalopes7/Data-analysis-with-ML
-
+```
 
 **3. Create the Conda environment from the env.yml file:**
 Navigate to the cloned project directory and run the following command to create the Conda environment with the required dependencies:
 
+```
 conda env create -f env.yml
+```
 
 **4. Activate the Conda environment:**
 Once the environment is created, activate it with the following command:
 
+```
 conda activate noteSI
-
+```
 Note: The environment name is specified in the env.yml file. If you haven’t changed the file, the default name will be the one listed there.
 
 **5. Verify that the dependencies & environment were installed correctly:**  
 You can check if the environment was created successfully and if all dependencies were installed by running:
 
+```
 conda list
 conda env list
+```
 
 **6. You're all set!**
 
