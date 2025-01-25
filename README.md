@@ -7,7 +7,7 @@ This project was conceived in an academic context, in the curricular unit "Intel
 - [Joana Lopes](https://github.com/joanalopes7)
 - [Tiago Miranda](https://github.com/tiagomiranda24)
 
-**Project Overview**
+## **Project Overview**
 
 This project involves the analysis of a dataset using machine learning algorithms with Python as the programming language. The work will be documented in a Jupyter Notebook, organized into sections, which will include the steps of the analysis performed. Each section will succinctly explain the procedures undertaken and the decisions made throughout the analysis.
 
@@ -15,7 +15,7 @@ The dataset chosen for this project is derived from the [DisGeNET](https://tdcom
 
 <br>
 
-**Project Structure**
+## **Project Structure**
 
 To enhance readability and ensure a smoother flow, the content to evaluation has been divided into three separate Jupyter Notebooks. The repository includes the following files:
 
@@ -50,6 +50,31 @@ To ensure that all the project's dependencies are installed correctly, we recomm
 **1. Make sure you have Conda installed.**
 If you don't have Conda installed, download and install Miniconda or Anaconda.
 
+
 **2. Clone the repository to your local machine:**
 If you haven't cloned the repository yet, use the following command to clone it:
+
+git clone https://github.com/joanalopes7/Data-analysis-with-ML
+
+
+**3. Create the Conda environment from the env.yml file:**
+Navigate to the cloned project directory and run the following command to create the Conda environment with the required dependencies:
+
+conda env create -f env.yml
+
+**4. Activate the Conda environment:**
+Once the environment is created, activate it with the following command:
+
+conda activate noteSI
+
+Note: The environment name is specified in the env.yml file. If you haven’t changed the file, the default name will be the one listed there.
+
+**5. Verify that the dependencies & environment were installed correctly:**  
+You can check if the environment was created successfully and if all dependencies were installed by running:
+
+conda list
+conda env list
+
+**6. You're all set!**
+
 
