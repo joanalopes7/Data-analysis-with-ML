@@ -6,12 +6,14 @@ This project was conceived in an academic context, in the curricular unit "Intel
 - [Carlos Gomes](https://github.com/CarlosGomes00)
 - [Diogo Esteves](https://github.com/dasesteves)
 - [Joana Lopes](https://github.com/joanalopes7)
-- [Tiago Miranda](https://github.com/tiagomiranda24)
+- [Tiago Miranda](https://github.com/tiagomiranda24) <br>
+  
 
+**Project Overview**
 
 This project involves the analysis of a dataset using machine learning algorithms with Python as the programming language. The work will be documented in a Jupyter Notebook, organized into sections, which will include the steps of the analysis performed. Each section will succinctly explain the procedures undertaken and the decisions made throughout the analysis.
 
-The dataset chosen for this project is derived from the [DisGeNET](https://tdcommons.ai/multi_pred_tasks/gdi#disgenet) platform, specifically focusing on gene-disease associations. DisGeNET is a comprehensive knowledge platform that integrates data from various sources to provide extensive information on the relationships between genes and diseases.
+The dataset chosen for this project is derived from the [DisGeNET](https://tdcommons.ai/multi_pred_tasks/gdi#disgenet) platform, specifically focusing on gene-disease associations. DisGeNET is a comprehensive knowledge platform that integrates data from various sources to provide extensive information on the relationships between genes and diseases.<br>
 
 
 **Project Structure**
@@ -26,7 +28,7 @@ To enhance readability and ensure a smoother flow, the content to evalutation ha
 
 "Primary exploration of DL models": This unstructured file corresponds to the initial exploration of DL models, containing the Deep Learning information presented during the intermediate classroom evaluation. It served as the foundation for improving our approach to the Deep Learning models proposed as "future work," which are presented in the "Section 4_Deep Learning Task" notebook. This file can be found in the "recycling" folder.
 
-"Gene-Disease Association Prediction presentation": This PDF file corresponds to our presentation for the intermediate evaluation that took place on January 13, 2025.
+"Gene-Disease Association Prediction presentation": This PDF file corresponds to our presentation for the intermediate evaluation that took place on January 13, 2025.<br>
 
 
 
@@ -38,11 +40,11 @@ Additionally, the repository references several **CSV files** that are not inclu
 
 "final_df" - The dataset with all preprocessing applied to the original data.
 
-"final_df_ML" - A subset of "final_df" containing only the columns necessary for machine learning and deep learning tasks.
+"final_df_ML" - A subset of "final_df" containing only the columns necessary for machine learning and deep learning tasks.<br>
 
 
 
-To ensure that all the project's dependencies are installed correctly, we recommend using a Conda environment. You can easily create the environment with the project's dependencies from the env.yml file included in this repository.
+To ensure that all the project's dependencies are installed correctly, we recommend using a Conda environment. You can easily create the environment with the project's dependencies from the env.yml file included in this repository.<br>
 
 **Steps to set up the environment:**
 
