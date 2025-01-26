@@ -26,10 +26,11 @@ To enhance readability and ensure a smoother flow, the content to evaluation has
   - **"Section 2 and 3_Unsupervised Learning and Machine Learning Task":** In this section, unsupervised analysis techniques, dimensionality reduction, and data visualization methods are applied. Moreover, this file includes Section 3 of this work, which corresponds to the Machine Learning task, where the performance of various ML models/algorithms is compared using error metrics appropriate to our problem. The best model we achieved is also identified and explored.
 
   - **"Section 4_Deep Learning Task":** Similarly to the objectives of Section 3, methods of Deep Learning are applied in Section 4.
+  - 
+  - **"Gene-Disease Association Prediction presentation":** This PDF file corresponds to our presentation for the intermediate evaluation that took place on January 13, 2025.
 
   - **"Primary exploration of DL models":** This unstructured file corresponds to the initial exploration of DL models, containing the Deep Learning information presented during the intermediate classroom evaluation. It served as the foundation for improving our approach to the Deep Learning models proposed as "future work," which are presented in the "Section 4_Deep Learning Task" notebook. This file can be found in the "Recycling" folder.
 
-  - **"Gene-Disease Association Prediction presentation":** This PDF file corresponds to our presentation for the intermediate evaluation that took place on January 13, 2025.<br>
 
 <br>
 <br>
