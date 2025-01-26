@@ -21,28 +21,28 @@ The dataset chosen for this project is derived from the [DisGeNET](https://tdcom
 
 To enhance readability and ensure a smoother flow, the content to evaluation has been divided into three separate Jupyter Notebooks. The repository includes the following files:
 
-**"Section 1_Exploratory Analysis and Preprocessing Tasks":** This section includes a description of the data according to the available literature, as well as an exploratory analysis using graphs to illustrate the main characteristics of the data. Additionally, it contains the methodology adopted for preprocessing and the respective justifications.
+  - **"Section 1_Exploratory Analysis and Preprocessing Tasks":** This section includes a description of the data according to the available literature, as well as an exploratory analysis using graphs to illustrate the main characteristics of the data. Additionally, it contains the methodology adopted for preprocessing and the respective justifications.
 
-**"Section 2 and 3_Unsupervised Learning and Machine Learning Task":** In this section, unsupervised analysis techniques, dimensionality reduction, and data visualization methods are applied. Moreover, this file includes Section 3 of this work, which corresponds to the Machine Learning task, where the performance of various ML models/algorithms is compared using error metrics appropriate to our problem. The best model we achieved is also identified and explored.
+  - **"Section 2 and 3_Unsupervised Learning and Machine Learning Task":** In this section, unsupervised analysis techniques, dimensionality reduction, and data visualization methods are applied. Moreover, this file includes Section 3 of this work, which corresponds to the Machine Learning task, where the performance of various ML models/algorithms is compared using error metrics appropriate to our problem. The best model we achieved is also identified and explored.
 
-**"Section 4_Deep Learning Task":** Similarly to the objectives of Section 3, methods of Deep Learning are applied in Section 4.
+  - **"Section 4_Deep Learning Task":** Similarly to the objectives of Section 3, methods of Deep Learning are applied in Section 4.
 
-**"Primary exploration of DL models":** This unstructured file corresponds to the initial exploration of DL models, containing the Deep Learning information presented during the intermediate classroom evaluation. It served as the foundation for improving our approach to the Deep Learning models proposed as "future work," which are presented in the "Section 4_Deep Learning Task" notebook. This file can be found in the "Recycling" folder.
+  - **"Primary exploration of DL models":** This unstructured file corresponds to the initial exploration of DL models, containing the Deep Learning information presented during the intermediate classroom evaluation. It served as the foundation for improving our approach to the Deep Learning models proposed as "future work," which are presented in the "Section 4_Deep Learning Task" notebook. This file can be found in the "Recycling" folder.
 
-**"Gene-Disease Association Prediction presentation":** This PDF file corresponds to our presentation for the intermediate evaluation that took place on January 13, 2025.<br>
+  - **"Gene-Disease Association Prediction presentation":** This PDF file corresponds to our presentation for the intermediate evaluation that took place on January 13, 2025.<br>
 
 <br>
 <br>
 
 Additionally, the repository references several **CSV files** that are not included due to their large size and that can be requested from the project collaborators:
 
-**"dataset_with_new_embeddings"** - Contains the embeddings generated with BioBERT for the textual descriptions of diseases.
-
-**"full_data_sequence_embeddings"** - Contains the embeddings generated using k-mers + Word2Vec for amino acid sequences.
-
-**"final_df"** - The dataset with all preprocessing applied to the original data.
-
-**"final_df_ML"** - A subset of "final_df" containing only the columns necessary for machine learning and deep learning tasks.<br>
+  - **"dataset_with_new_embeddings"** - Contains the embeddings generated with BioBERT for the textual descriptions of diseases.
+  
+  - **"full_data_sequence_embeddings"** - Contains the embeddings generated using k-mers + Word2Vec for amino acid sequences.
+  
+  - **"final_df"** - The dataset with all preprocessing applied to the original data.
+  
+  - **"final_df_ML"** - A subset of "final_df" containing only the columns necessary for machine learning and deep learning tasks.<br>
 
 <br>
 
